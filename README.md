@@ -2,7 +2,7 @@
 
 A Three.js 3D character animation project built with Vite.
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository:**
    ```bash
